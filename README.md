@@ -7,5 +7,5 @@ probando branches
 aaaaaaaaacommitnuevo
 sha commit en la linea 7 mira nomas chupetesuazo
 
-conflicto nuevamentex
+conflicto nuevamentex1555555
 o no puedo xd? armada
